@@ -1,0 +1,23 @@
+h1.intro {
+  color: seagreen;
+  text-align: center;
+  text-decoration: underline;
+  font-family: impact;
+}
+
+h2.intro {
+  text-decoration: underline;
+  text-align: center;
+}
+
+p.intro {
+  border-style: groove;
+  text-align: center;
+}
+
+img.intro {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
